@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "sourceMap": true,
+        "rootDir": "src/app",
+        "outDir": "src/js"
+    },
+    "exclude": [
+        "node_modules",
+        "typings"
+    ]
+}
